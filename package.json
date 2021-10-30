@@ -1,0 +1,19 @@
+{
+  "name": "reflection",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./JavaScript/1-class.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GreedNeSS/Reflection.git"
+  },
+  "author": "GreedNeSS",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GreedNeSS/Reflection/issues"
+  },
+  "homepage": "https://github.com/GreedNeSS/Reflection#readme"
+}
