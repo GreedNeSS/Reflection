@@ -5,7 +5,7 @@ const build = (...fields) => class {
 		for (let i = 0; i < fields.length; i++) {
 			const key = fields[i];
 			this[key] = values[i];
-		};
+		}
 	}
 };
 

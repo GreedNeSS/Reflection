@@ -63,6 +63,8 @@ const toSquare = compose(
 
 const Square2 = toSquare(Rect);
 
+console.log({ Square1, Square2 });
+
 const p1 = new Square2(10, 20, 50);
 p1.scale(1.2);
 p1.move(-10, 5);
